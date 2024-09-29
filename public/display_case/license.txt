@@ -1,0 +1,11 @@
+Model Information:
+* title:	Display Case
+* source:	https://sketchfab.com/3d-models/display-case-f0ab6595ba874a6ab6b3f40ca8935736
+* author:	chronickev (https://sketchfab.com/chronickev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Display Case" (https://sketchfab.com/3d-models/display-case-f0ab6595ba874a6ab6b3f40ca8935736) by chronickev (https://sketchfab.com/chronickev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

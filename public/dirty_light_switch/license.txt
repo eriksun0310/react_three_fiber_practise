@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dirty Light Switch
+* source:	https://sketchfab.com/3d-models/dirty-light-switch-ed82d1750d9d41c18e22c7825151bb48
+* author:	deicidio1978 (https://sketchfab.com/deicidio1978)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dirty Light Switch" (https://sketchfab.com/3d-models/dirty-light-switch-ed82d1750d9d41c18e22c7825151bb48) by deicidio1978 (https://sketchfab.com/deicidio1978) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
