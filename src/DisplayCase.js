@@ -12,7 +12,7 @@ function DisplayCase({ isOff }) {
 
   return (
     <>
-      <spotLight
+      <pointLight
         position={[0, 5, 5]} // 聚光灯位置，稍高于开关
         angle={3} // 光束的角度
         // penumbra={} // 光束边缘的柔和度
